@@ -98,7 +98,7 @@ app.get('/fanfics/filterbyid/:id', (req, res) => {
 })
 
 
-//lista de lectura - posible ruta
+//lista de lectura - posible ruta / crud de generos como ruta
 //filtrado por etiquetas
 //
 
